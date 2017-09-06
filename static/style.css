@@ -270,6 +270,7 @@ div.post {
     border-top-width: 0;
     margin-left: 32px;
     transition: background 0.3s;
+
 }
 
 div.post:hover {
@@ -281,7 +282,12 @@ div.post_body p a:hover {
 }
 
 div.thread {
+    
     margin: 0;
+}
+div.threadbox{
+    border-style: dotted;
+    
 }
 
 html body {
